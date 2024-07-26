@@ -2,7 +2,8 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
-  cout<<"Welcome To Abdelhamed Ahmed Profile ";
+                        💯
+  cout<<"Welcome To Abdelhamed Ahmed Profile " ;
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -15,9 +16,9 @@
 </p>
 
 - 🏢 I'm a Embedded System Developer and a Learner in Machine Learning  Field
-- 👨‍💻 As an Electronics and Communication Engineering student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As an Communication and information Engineering student, I'm constantly learning and exploring new technologies to improve my skills .🥇
 - 💬 I have very good knowledge and Expreience in  C++, C language, Python, and Computer Architecture, or anything related to Embedded System and Electronics
-- 👨‍💻 Golden Rank in C and C++ In HackerRank 
+- 🥇 Golden Rank in C and C++ In HackerRank 
 
 
 ### Connect with Me :
