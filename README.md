@@ -1,136 +1,48 @@
-- 👋 Hi, I’m abdelhamed ahmed
-- 👀 I’m interested in Embedded systems , IOT applications , Automotive ,  linux
-- 🌱 I’m currently learning Machine learning , Database , Ai .
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<!DOCTYPE html>
-<html lang="en">
-<!-- 
 
-    Particles thanks to ParticleJS - https://github.com/VincentGarreau/particles.js/
-    Typewriter thanks to Typewriter.js - https://github.com/tameemsafi/typewriterjs
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
- -->
+<h3 align="center">
+  cout<<"Welcome To Abdelhamed Ahmed Profile ";
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
-    <style>
-        body {
-            padding: 0;
-            margin: 0;
-            background-color: #0d1116;
-        }
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
-        #particles-js {
-            width: 800px;
-            height: 387px;
-            background-color: #0d1116;
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            border: 1px solid purple;
-            opacity: 0.9;
-        }
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20System%20Developer%20;Always%20learning%20new%20technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Machine%20Learning%20Learner;Always%20looking%20for%20new%20challenges&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 
-        #typewriter {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -60px);
-            font-size: 3rem;
-            line-height: 3rem;
-            color: #fff;
-            text-align: center;
-            font-family: 'Roboto', sans-serif;
-            font-weight: 500;
-            clip: auto;
-            z-index: 1;
-            background: -webkit-linear-gradient(#5115b9, #e010e3);
-            background-clip: text;
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-        }
+</p>
 
-        #typewriter2 {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, 20px);
-            font-size: 2rem;
-            line-height: 3rem;
-            color: #fff;
-            text-align: center;
-            font-family: 'Roboto', sans-serif;
-            font-weight: 500;
-            z-index: 1;
-            background: -webkit-linear-gradient(#5115b9, #fa00ff);
-            background-clip: text;
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-        }
-    </style>
-</head>
+- 🏢 I'm a Embedded System Developer and a Learner in Machine Learning  Field
+- 👨‍💻 As an Electronics and Communication Engineering student, I'm constantly learning and exploring new technologies to improve my skills.
+- 💬 I have very good knowledge and Expreience in  C++, C language, Python, and Computer Architecture, or anything related to Embedded System and Electronics
+- 👨‍💻 Golden Rank in C and C++ In HackerRank 
 
-<body>
-    <div id="typewriter"></div>
-    <div id="typewriter2"></div>
-    <div id="particles-js"></div>
-    <script src="particles.js"></script>
-    <script>
-        particlesJS.load('particles-js', 'assets/particles.json', function () {
-            console.log('callback - particles-js config loaded');
-        });
 
-        new Typewriter('#typewriter', {
-            delay: 20,
-        }).typeString('Hey there, I\'m Cyris 👋')
-            .pauseFor(3000)
-            .deleteAll(10)
-            .typeString('I\'m a software developer 👨‍💻')
-            .pauseFor(3000)
-            .deleteAll(10)
-            .typeString('I\'m a maker 🏗')
-            .pauseFor(3000)
-            .deleteAll(10)
-            .typeString('I\'m an infosec enthusiast 🔒')
-            .pauseFor(3000)
-            .deleteAll(10)
-            .typeString('Check out my work 👇')
-            .pauseFor(4000)
-            .start();
+### Connect with Me :
 
-        new Typewriter('#typewriter2', {
-            delay: 20,
-        }).pauseFor(1000)
-            .typeString('Nice to meet you.')
-            .pauseFor(2000)
-            .deleteAll(10)
-            .pauseFor(1000)
-            .typeString('Javascript, NodeJS, React, Express.')
-            .pauseFor(2000)
-            .deleteAll(10)
-            .typeString('RaspberryPi, Arduino, ESP8266, ESP32.')
-            .pauseFor(2000)
-            .deleteAll(10)
-            .typeString('Learning to protect myself and others.')
-            .pauseFor(3000)
-            .deleteAll(10)
-            .pauseFor(200)
-            .typeString('Follow me on twitter @sudo_overflow.')
-            .pauseFor(4000)
-            .start();
-    </script>
-</body>
+<a href="www.linkedin.com/in/abdelhamed-ahmed-1a0a88291" target="_blank"><img src="https://img.shields.io/badge/Abdelhamed%20Ahmed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100005580169202" target="_blank"><img src="https://img.shields.io/badge/-Abdelhamed%20Ahmed-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
-</html>
-<!---
-Eng-abdelhamed/Eng-abdelhamed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠 &nbsp;Tech Stack
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c)&nbsp;
+![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=excel)&nbsp;
+![Powerpoint](https://img.shields.io/badge/-Powerpoint-05122A?style=flat&logo=powerpoint)&nbsp;
+![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=Canva)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![Atmel Studio](https://img.shields.io/badge/-Atmel%20Studio%20-05122A?style=flat&logo=atmelstudio)&nbsp;
+![Arduino](https://img.shields.io/badge/-Arduino%20-05122A?style=flat&logo=Arduino)&nbsp;
+![Spyder](https://img.shields.io/badge/-Spyder%20-05122A?style=flat&logo=Spyder)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse%20-05122A?style=flat&logo=Eclipse)&nbsp;
+
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adham-amr-1&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<br>
+<a href="https://komarev.com/ghpvc/?username=Adham-amr-1&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=Adham-amr-1&style=for-the-badge">
+</a>
