@@ -1,44 +1,69 @@
+<h4 align="center">I'm a Embedded System Developer and a Learner in Machine Learning Field<br>As an Communication and information Engineering student, I'm constantly learning and exploring new technologies to improve my skills .🥇</h4>
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+###
 
-<h3 align="center">
-                        💯
-  cout<<"Welcome To Abdelhamed Ahmed Profile " ;
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eng-abdelhamed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eng-abdelhamed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+###
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20System%20Developer%20;Always%20learning%20new%20technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Machine%20Learning%20Learner;Always%20looking%20for%20new%20challenges&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="30" alt="embeddedc logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="cmake logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" height="30" alt="labview logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
+</div>
 
-</p>
+###
 
-- 🏢 I'm a Embedded System Developer and a Learner in Machine Learning  Field
-- 👨‍💻 As an Communication and information Engineering student, I'm constantly learning and exploring new technologies to improve my skills .🥇
-- 💬 I have very good knowledge and Expreience in  C++, C language, Python, and Computer Architecture, or anything related to Embedded System and Electronics
-- 🥇 Golden Rank in C and C++ In HackerRank 
+<img align="right" height="200" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif"  />
 
+###
 
-### Connect with Me :
+<div align="center">
+  <a href="www.linkedin.com/in/abdelhamedahmed" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="abdelhamedahmed_08229" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100005580169202" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="abdelhamedahmed239@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
-<a href="www.linkedin.com/in/abdelhamed-ahmed-1a0a88291" target="_blank"><img src="https://img.shields.io/badge/Abdelhamed%20Ahmed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100005580169202" target="_blank"><img src="https://img.shields.io/badge/-Abdelhamed%20Ahmed-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+###
 
-### 🛠 &nbsp;Tech Stack
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c)&nbsp;
-![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=excel)&nbsp;
-![Powerpoint](https://img.shields.io/badge/-Powerpoint-05122A?style=flat&logo=powerpoint)&nbsp;
-![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=Canva)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![Atmel Studio](https://img.shields.io/badge/-Atmel%20Studio%20-05122A?style=flat&logo=atmelstudio)&nbsp;
-![Arduino](https://img.shields.io/badge/-Arduino%20-05122A?style=flat&logo=Arduino)&nbsp;
-![Spyder](https://img.shields.io/badge/-Spyder%20-05122A?style=flat&logo=Spyder)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse%20-05122A?style=flat&logo=Eclipse)&nbsp;
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/Eng-abdelhamed/Eng-abdelhamed/output/snake.svg" alt="Snake animation" />
 
-
+###
