@@ -22,6 +22,9 @@
 </div>
 
 ---
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eng-abdelhamed&bg_color=ffffff&color=2f80ed&line=27ae60&point=27ae60&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
 
 ###  Languages & Tools I Use
 <p align="center">
