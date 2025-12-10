@@ -4,16 +4,14 @@
 </h4>
 
 <p align="center">
-  I'm passionate about building intelligent embedded systems and continuously learning new technologies. <br>
-  I enjoy working on projects that combine low-level programming with high-level problem-solving. 🧠🔧
+<strong>Embedded Software Developer </strong> and <strong> DevOps Engineer </strong>, with a strong focus on building <strong> hands-on projects</strong> and applying what I learn in practice. <br>
+I enjoy working close to the hardware, writing efficient low-level code, and automating systems and workflows. <br>
+My goal is to build reliable, scalable, and practical engineering solutions. 🧠🔧⚙️
 </p>
 
 ---
 ### 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/eng-abdelhamed)
-- 📷 [Instagram](https://www.instagram.com/yourusername) *(optional)*
+- 💼 [LinkedIn](http://www.linkedin.com/in/abdelhamedahmed)
 - 💬 Feel free to reach out for collaboration, projects, or just a tech chat!
-
 ---
 
