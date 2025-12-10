@@ -1,5 +1,5 @@
 <h4 align="center">
-   Embedded Systems Developer |  Machine Learning Enthusiast <br>
+   Embedded Systems Developer |  DevOps Enthusiast <br>
    Communication and Information Engineering Student
 </h4>
 
